@@ -1,0 +1,133 @@
+18:54:12.337 [main] INFO  tests.CheckoutTest - CheckoutTest class: completeCheckoutTest :Completed Testcase 4
+18:54:22.154 [main] INFO  tests.CheckoutTest - CheckoutTest class: completeCheckoutTest :Completed Testcase 5
+18:59:28.062 [main] INFO  tests.CheckoutTest - CheckoutTest class: completeCheckoutTest :Completed Testcase 4
+18:59:37.782 [main] INFO  tests.CheckoutTest - CheckoutTest class: completeCheckoutTest :Completed Testcase 5
+19:15:14.528 [main] INFO  listeners.TestListeners - Test Started: testcase4
+19:15:20.959 [main] INFO  tests.CheckoutTest - CheckoutTest class: completeCheckoutTest :Completed Testcase 4
+19:15:20.967 [main] INFO  listeners.TestListeners - Test Successful!!!: testcase4
+19:15:23.127 [main] INFO  listeners.TestListeners - Test Started: testcase5
+19:15:29.820 [main] INFO  listeners.TestListeners - Test Failed.....testcase5
+19:20:56.764 [main] INFO  listeners.TestListeners - Test Started: testcase4
+19:21:03.197 [main] INFO  tests.CheckoutTest - CheckoutTest class: completeCheckoutTest :Completed Testcase 4
+19:21:03.204 [main] INFO  listeners.TestListeners - Test Successful!!!: testcase4
+19:21:07.079 [main] INFO  listeners.TestListeners - Test Started: testcase5
+19:21:14.045 [main] INFO  listeners.TestListeners - Test Failed.....testcase5
+19:22:37.542 [main] INFO  listeners.TestListeners - Test Started: testcase4
+19:22:43.987 [main] INFO  tests.CheckoutTest - CheckoutTest class: completeCheckoutTest :Completed Testcase 4
+19:22:43.992 [main] INFO  listeners.TestListeners - Test Successful!!!: testcase4
+19:22:47.806 [main] INFO  listeners.TestListeners - Test Started: testcase5
+19:22:54.428 [main] INFO  listeners.TestListeners - Test Failed.....testcase5
+19:24:05.888 [main] INFO  listeners.TestListeners - Test Started: testcase4
+19:24:12.112 [main] INFO  tests.CheckoutTest - CheckoutTest class: completeCheckoutTest :Completed Testcase 4
+19:24:12.112 [main] INFO  listeners.TestListeners - Test Successful!!!: testcase4
+19:24:15.176 [main] INFO  listeners.TestListeners - Test Started: testcase5
+19:24:22.115 [main] INFO  tests.CheckoutTest - CheckoutTest class: completeCheckoutTest :Completed Testcase 5
+19:24:22.117 [main] INFO  listeners.TestListeners - Test Successful!!!: testcase5
+19:37:29.189 [main] INFO  listeners.TestListeners - Test Started: testcase5
+19:40:14.272 [main] INFO  listeners.TestListeners - Test Started: testcase5
+19:41:19.900 [main] INFO  listeners.TestListeners - Test Started: testcase5
+19:41:26.850 [main] INFO  listeners.TestListeners - Test Failed.....testcase5
+19:42:30.415 [main] INFO  listeners.TestListeners - Test Started: testcase5
+20:17:05.447 [main] INFO  listeners.TestListeners - Test Failed.....testcase5
+20:17:48.906 [main] INFO  listeners.TestListeners - Test Started: testcase5
+20:17:56.008 [main] INFO  listeners.TestListeners - Test Failed.....testcase5
+20:20:53.912 [main] INFO  listeners.TestListeners - Test Started: testcase5
+20:21:00.488 [main] INFO  listeners.TestListeners - Test Failed.....testcase5
+20:21:50.474 [main] INFO  listeners.TestListeners - Test Started: testcase5
+20:21:57.602 [main] INFO  listeners.TestListeners - Test Failed.....testcase5
+20:22:49.379 [main] INFO  listeners.TestListeners - Test Started: testcase5
+20:22:56.465 [main] INFO  listeners.TestListeners - Test Failed.....testcase5
+20:23:51.329 [main] INFO  listeners.TestListeners - Test Started: testcase5
+20:23:58.292 [main] INFO  listeners.TestListeners - Test Failed.....testcase5
+20:24:47.309 [main] INFO  listeners.TestListeners - Test Started: testcase5
+20:24:54.189 [main] INFO  listeners.TestListeners - Test Failed.....testcase5
+20:30:31.327 [main] INFO  listeners.TestListeners - Test Started: testcase5
+20:30:38.473 [main] INFO  listeners.TestListeners - Test Failed.....testcase5
+20:32:47.649 [main] INFO  listeners.TestListeners - Test Started: LoginPageTest1
+20:32:52.221 [main] INFO  tests.LoginTest - Completed Testcase 1
+20:32:52.221 [main] INFO  listeners.TestListeners - Test Successful!!!: LoginPageTest1
+20:32:54.731 [main] INFO  listeners.TestListeners - Test Started: LoginPageTest2
+20:32:59.227 [main] INFO  tests.LoginTest - Completed Testcase 2
+20:32:59.230 [main] INFO  listeners.TestListeners - Test Successful!!!: LoginPageTest2
+20:33:00.765 [main] INFO  listeners.TestListeners - Test Started: LoginPageTest3
+20:33:05.173 [main] INFO  tests.LoginTest - Completed Testcase 3
+20:33:05.176 [main] INFO  listeners.TestListeners - Test Successful!!!: LoginPageTest3
+20:33:07.874 [main] INFO  listeners.TestListeners - Test Started: LoginPageTest4
+20:33:12.332 [main] INFO  tests.LoginTest - Completed Testcase 4
+20:33:12.335 [main] INFO  listeners.TestListeners - Test Successful!!!: LoginPageTest4
+20:33:13.972 [main] INFO  listeners.TestListeners - Test Started: LoginPageTest5
+20:33:18.475 [main] INFO  tests.LoginTest - Completed Testcase 5
+20:33:18.475 [main] INFO  listeners.TestListeners - Test Successful!!!: LoginPageTest5
+20:33:21.191 [main] INFO  listeners.TestListeners - Test Started: addItemToCartTest
+20:33:30.302 [main] INFO  tests.CartTest - CartTest: addItemToCartTest : Completed the test
+20:33:30.302 [main] INFO  listeners.TestListeners - Test Successful!!!: addItemToCartTest
+20:33:31.935 [main] INFO  listeners.TestListeners - Test Started: addMultipleItemsToCart
+20:33:40.165 [main] INFO  listeners.TestListeners - Test Successful!!!: addMultipleItemsToCart
+20:33:41.968 [main] INFO  listeners.TestListeners - Test Started: addMultipleItemsToCartAndRemove
+20:33:50.256 [main] INFO  listeners.TestListeners - Test Successful!!!: addMultipleItemsToCartAndRemove
+20:33:51.950 [main] INFO  listeners.TestListeners - Test Started: verifyContentsOnCartandInventory
+20:33:59.957 [main] INFO  listeners.TestListeners - Test Successful!!!: verifyContentsOnCartandInventory
+20:34:01.768 [main] INFO  listeners.TestListeners - Test Started: testcase5
+20:34:08.863 [main] INFO  listeners.TestListeners - Test Failed.....testcase5
+20:53:57.282 [main] INFO  listeners.TestListeners - Test Started: LoginPageTest1
+20:54:01.738 [main] INFO  tests.LoginTest - Completed Testcase 1
+20:54:01.740 [main] INFO  listeners.TestListeners - Test Successful!!!: LoginPageTest1
+20:54:04.021 [main] INFO  listeners.TestListeners - Test Started: LoginPageTest2
+20:54:08.428 [main] INFO  tests.LoginTest - Completed Testcase 2
+20:54:08.430 [main] INFO  listeners.TestListeners - Test Successful!!!: LoginPageTest2
+20:54:10.573 [main] INFO  listeners.TestListeners - Test Started: LoginPageTest3
+20:54:15.049 [main] INFO  tests.LoginTest - Completed Testcase 3
+20:54:15.052 [main] INFO  listeners.TestListeners - Test Successful!!!: LoginPageTest3
+20:54:18.347 [main] INFO  listeners.TestListeners - Test Started: LoginPageTest4
+20:54:22.816 [main] INFO  tests.LoginTest - Completed Testcase 4
+20:54:22.819 [main] INFO  listeners.TestListeners - Test Successful!!!: LoginPageTest4
+20:54:25.102 [main] INFO  listeners.TestListeners - Test Started: LoginPageTest5
+20:54:29.531 [main] INFO  tests.LoginTest - Completed Testcase 5
+20:54:29.531 [main] INFO  listeners.TestListeners - Test Successful!!!: LoginPageTest5
+20:54:32.240 [main] INFO  listeners.TestListeners - Test Started: addItemToCartTest
+20:54:37.167 [main] INFO  tests.CartTest - CartTest: addItemToCartTest : Completed the test
+20:54:37.169 [main] INFO  listeners.TestListeners - Test Successful!!!: addItemToCartTest
+20:54:39.336 [main] INFO  listeners.TestListeners - Test Started: addMultipleItemsToCart
+20:54:47.346 [main] INFO  listeners.TestListeners - Test Successful!!!: addMultipleItemsToCart
+20:54:49.547 [main] INFO  listeners.TestListeners - Test Started: addMultipleItemsToCartAndRemove
+20:54:55.000 [main] INFO  listeners.TestListeners - Test Successful!!!: addMultipleItemsToCartAndRemove
+20:54:58.101 [main] INFO  listeners.TestListeners - Test Started: verifyContentsOnCartandInventory
+20:55:06.213 [main] INFO  listeners.TestListeners - Test Successful!!!: verifyContentsOnCartandInventory
+20:55:08.341 [main] INFO  listeners.TestListeners - Test Started: testcase5
+20:55:15.066 [main] INFO  listeners.TestListeners - Test Skipped-----testcase5
+20:55:18.060 [main] INFO  listeners.TestListeners - Test Started: testcase5
+20:55:24.277 [main] INFO  listeners.TestListeners - Test Skipped-----testcase5
+20:55:26.451 [main] INFO  listeners.TestListeners - Test Started: testcase5
+20:55:33.462 [main] INFO  listeners.TestListeners - Test Failed.....testcase5
+20:57:02.454 [main] INFO  listeners.TestListeners - Test Started: LoginPageTest1
+20:57:06.964 [main] INFO  tests.LoginTest - Completed Testcase 1
+20:57:06.966 [main] INFO  listeners.TestListeners - Test Successful!!!: LoginPageTest1
+20:57:10.599 [main] INFO  listeners.TestListeners - Test Started: LoginPageTest2
+20:57:15.073 [main] INFO  tests.LoginTest - Completed Testcase 2
+20:57:15.078 [main] INFO  listeners.TestListeners - Test Successful!!!: LoginPageTest2
+20:57:17.446 [main] INFO  listeners.TestListeners - Test Started: LoginPageTest3
+20:57:21.914 [main] INFO  tests.LoginTest - Completed Testcase 3
+20:57:21.915 [main] INFO  listeners.TestListeners - Test Successful!!!: LoginPageTest3
+20:57:24.411 [main] INFO  listeners.TestListeners - Test Started: LoginPageTest4
+20:57:28.824 [main] INFO  tests.LoginTest - Completed Testcase 4
+20:57:28.824 [main] INFO  listeners.TestListeners - Test Successful!!!: LoginPageTest4
+20:57:31.301 [main] INFO  listeners.TestListeners - Test Started: LoginPageTest5
+20:57:35.890 [main] INFO  tests.LoginTest - Completed Testcase 5
+20:57:35.890 [main] INFO  listeners.TestListeners - Test Successful!!!: LoginPageTest5
+20:57:38.651 [main] INFO  listeners.TestListeners - Test Started: addItemToCartTest
+20:57:43.598 [main] INFO  tests.CartTest - CartTest: addItemToCartTest : Completed the test
+20:57:43.598 [main] INFO  listeners.TestListeners - Test Successful!!!: addItemToCartTest
+20:57:45.452 [main] INFO  listeners.TestListeners - Test Started: addMultipleItemsToCart
+20:58:12.367 [main] INFO  listeners.TestListeners - Test Skipped-----addMultipleItemsToCart
+20:58:15.895 [main] INFO  listeners.TestListeners - Test Started: addMultipleItemsToCart
+20:58:24.047 [main] INFO  listeners.TestListeners - Test Successful!!!: addMultipleItemsToCart
+20:58:25.774 [main] INFO  listeners.TestListeners - Test Started: addMultipleItemsToCartAndRemove
+20:58:30.946 [main] INFO  listeners.TestListeners - Test Successful!!!: addMultipleItemsToCartAndRemove
+20:58:34.329 [main] INFO  listeners.TestListeners - Test Started: verifyContentsOnCartandInventory
+20:58:42.478 [main] INFO  listeners.TestListeners - Test Successful!!!: verifyContentsOnCartandInventory
+20:58:44.675 [main] INFO  listeners.TestListeners - Test Started: testcase5
+20:58:51.623 [main] INFO  listeners.TestListeners - Test Skipped-----testcase5
+20:58:54.054 [main] INFO  listeners.TestListeners - Test Started: testcase5
+20:59:01.104 [main] INFO  listeners.TestListeners - Test Skipped-----testcase5
+20:59:03.132 [main] INFO  listeners.TestListeners - Test Started: testcase5
+20:59:09.717 [main] INFO  listeners.TestListeners - Test Failed.....testcase5
