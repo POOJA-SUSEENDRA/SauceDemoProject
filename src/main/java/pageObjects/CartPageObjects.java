@@ -52,7 +52,7 @@ public class CartPageObjects {
 			}
 		}
 		return new testInventoryObject(pdTitle, Idesc,Iprice );
-		
+
 	}
 	
 	
